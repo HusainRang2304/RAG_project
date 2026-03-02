@@ -1,0 +1,8 @@
+rag-knowledge-assistant/
+│
+├── app.py                # Main application (single file)
+├── requirements.txt      # Dependencies
+├── .env                  # API key
+├── data/                 # Put PDFs here
+├── vector_db/            # Auto-created
+└── README.md             # Procedure documentation
